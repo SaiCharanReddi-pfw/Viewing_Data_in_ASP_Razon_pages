@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/empdetails/.vs/empdetails/FileContentIndex/4e8ec767-0236-4853-a4da-402d0b434ec9.vsidx
+/empdetails/.vs/empdetails/FileContentIndex/963297c9-7fee-4b0d-aee1-5c5ba7866d19.vsidx
+/empdetails/.vs/empdetails/FileContentIndex/a1c70588-c3d8-4efc-afff-37db31317b26.vsidx
+/empdetails/.vs/empdetails/FileContentIndex/b1524d6d-04b1-4311-a4a6-eae36a7f2ee3.vsidx
+/empdetails/.vs/empdetails/v17/.suo
+/empdetails/empdetails/obj/Debug/net6.0/empdetailsAPI.assets.cache
+/empdetails/empdetails/obj/Debug/net6.0/empdetailsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.assets.cache
+/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.AssemblyReference.cache
+/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/.vs/slnx.sqlite
+/empdetails/empdetails/obj/Debug/net6.0/empdetailsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/empdetails/empdetails/obj/Debug/net6.0/empdetailsAPI.assets.cache
+/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.assets.cache
+/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.AssemblyReference.cache

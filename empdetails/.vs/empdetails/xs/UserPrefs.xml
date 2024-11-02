@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.empdetailsWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{4108DCFF-97CC-4D6F-BB49-0244B3643C6F}" ItemName="empdetailsAPI" ConfigurationId="empdetails" />
+        <StartupItem ItemId="{C1FFDDB7-9EA5-4826-89F4-6CA384539DB8}" ItemName="empdetailsWebApp" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.empdetailsAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="empdetails/Repositories/employeeRepository.cs">
+    <Files>
+      <File FileName="empdetailsWebApp/Pages/EmpDetails/Edit.cshtml" />
+      <File FileName="empdetailsWebApp/Pages/EmpDetails/Edit.cshtml.cs" />
+      <File FileName="empdetailsWebApp/Pages/EmpDetails/Index.cshtml" />
+      <File FileName="empdetailsWebApp/Pages/EmpDetails/Index.cshtml.cs" />
+      <File FileName="empdetails/Repositories/employeeRepository.cs" Line="25" Column="1" />
+      <File FileName="empdetails/appsettings.json" Line="2" Column="104" />
+      <File FileName="empdetailsWebApp/appsettings.json" />
+      <File FileName="empdetailsWebApp/appsettings.Development.json" />
+      <File FileName="empdetailsWebApp/Pages/Index.cshtml.cs" />
+      <File FileName="empdetailsWebApp/Pages/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="empdetails" expanded="True">
+            <Node name="empdetailsAPI" expanded="True">
+              <Node name="Repositories" expanded="True">
+                <Node name="employeeRepository.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="empdetailsWebApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="EmpDetails" expanded="True">
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" />
+                </Node>
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

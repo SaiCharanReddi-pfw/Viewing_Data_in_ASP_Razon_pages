@@ -1,0 +1,153 @@
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.deps.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.runtimeconfig.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.exe
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/appsettings.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.staticwebassets.runtime.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.exe
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.deps.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.runtimeconfig.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.pdb
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.pdb
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.AssemblyReference.cache
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.AssemblyInfoInputs.cache
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.AssemblyInfo.cs
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.CoreCompileInputs.cache
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.RazorAssemblyInfo.cache
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.RazorAssemblyInfo.cs
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.empdetailsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.build.empdetailsWebApp.props
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.empdetailsWebApp.props
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.empdetailsWebApp.props
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/scopedcss/bundle/empdetailsWebApp.styles.css
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/scopedcss/projectbundle/empdetailsWebApp.bundle.scp.css
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.CopyComplete
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/refint/empdetailsWebApp.dll
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.pdb
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.genruntimeconfig.cache
+C:/Users/Yarla/Downloads/ACS_567_Team5-main (1)/ACS_567_Team5-main/empdetails/empdetailsWebApp/obj/Debug/net6.0/ref/empdetailsWebApp.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/appsettings.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.deps.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.runtimeconfig.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.staticwebassets.runtime.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.deps.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.runtimeconfig.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsWebApp.pdb
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/AutoMapper.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/MySqlConnector.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/bin/Debug/net6.0/empdetailsAPI.pdb
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.AssemblyReference.cache
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.AssemblyInfoInputs.cache
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.AssemblyInfo.cs
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.CoreCompileInputs.cache
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.RazorAssemblyInfo.cache
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.RazorAssemblyInfo.cs
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.empdetailsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.build.empdetailsWebApp.props
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.empdetailsWebApp.props
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.empdetailsWebApp.props
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/scopedcss/bundle/empdetailsWebApp.styles.css
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/scopedcss/projectbundle/empdetailsWebApp.bundle.scp.css
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.csproj.CopyComplete
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/refint/empdetailsWebApp.dll
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.pdb
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/empdetailsWebApp.genruntimeconfig.cache
+/Users/saitejayarlagadda/Downloads/ACS_567_Team5-main-2/empdetails/empdetailsWebApp/obj/Debug/net6.0/ref/empdetailsWebApp.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\appsettings.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsAPI.deps.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsAPI.runtimeconfig.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsAPI.exe
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsWebApp.staticwebassets.runtime.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsWebApp.exe
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsWebApp.deps.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsWebApp.runtimeconfig.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsWebApp.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsWebApp.pdb
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\AutoMapper.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsAPI.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\bin\Debug\net6.0\empdetailsAPI.pdb
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.csproj.AssemblyReference.cache
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.AssemblyInfoInputs.cache
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.AssemblyInfo.cs
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.csproj.CoreCompileInputs.cache
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.RazorAssemblyInfo.cache
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.RazorAssemblyInfo.cs
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\staticwebassets\msbuild.empdetailsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.empdetailsWebApp.props
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.empdetailsWebApp.props
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.empdetailsWebApp.props
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\scopedcss\bundle\empdetailsWebApp.styles.css
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\scopedcss\projectbundle\empdetailsWebApp.bundle.scp.css
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.csproj.CopyComplete
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\refint\empdetailsWebApp.dll
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.pdb
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\empdetailsWebApp.genruntimeconfig.cache
+D:\SPM\ACS_567_Team5\empdetails\empdetailsWebApp\obj\Debug\net6.0\ref\empdetailsWebApp.dll

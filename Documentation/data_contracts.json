@@ -1,0 +1,68 @@
+Data Contracts:
+
+GetDatas( returns all the employee data):
+
+[
+  {
+    "id": <int>,
+    "work_year": <int>,
+    "experience_level": <string>,
+    "job_title": <string>,
+    "salary_in_usd": <int>,
+    "employee_residence": <string>,
+    "company_location": <string>,
+    "company_size": <string>
+  }
+]
+ 
+
+   2. GetData (returns data by ID):
+
+{
+    "id": <int>,
+    "work_year": <int>,
+    "experience_level": <string>,
+    "job_title": <string>,
+    "salary_in_usd": <int>,
+    "employee_residence": <string>,
+    "company_location": <string>,
+    "company_size": <string>
+  }
+ 
+
+3. AddData:
+
+{
+    "id": <int>,
+    "work_year": <int>,
+    "experience_level": <string>,
+    "job_title": <string>,
+    "salary_in_usd": <int>,
+    "employee_residence": <string>,
+    "company_location": <string>,
+    "company_size": <string>
+  }
+ 
+
+4.  UpdateData:
+
+{
+    "id": <int>,
+    "work_year": <int>,
+    "experience_level": <string>,
+    "job_title": <string>,
+    "salary_in_usd": <int>,
+    "employee_residence": <string>,
+    "company_location": <string>,
+    "company_size": <string>
+  }
+ 
+
+5.  AvgSalary:
+
+<float>
+ 
+
+6. JobTrends:
+
+<List<float>>

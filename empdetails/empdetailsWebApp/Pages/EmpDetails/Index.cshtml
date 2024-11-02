@@ -1,0 +1,47 @@
+@page
+@model empdetailsWebApp.Pages.EmpDetails.IndexModel
+@{
+}
+<br>
+<h2>List of employee details</h2>
+<a class='btn btn-primary btn-sm' href='/EmpDetails/Create'>New Data</a>
+<a class='btn btn-primary btn-sm' href='/EmpDetails/AvgSalary'>Average Salary</a>
+<a class='btn btn-primary btn-sm' href='/EmpDetails/JobTrends'>Job trends</a>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>work_year</th>
+            <th>experience_level</th>
+            <th>job_title</th>
+            <th>salary_in_usd</th>
+            <th>employee_residence</th>
+            <th>company_location</th>
+            <th>company_size</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.emp)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.work_year</td>
+                <td>@item.experience_level</td>
+                <td>@item.job_title</td>
+                <td>@item.salary_in_usd</td>
+                <td>@item.employee_residence</td>
+                <td>@item.company_location</td>
+                <td>@item.company_size</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/EmpDetails/Edit?id=@item.id">Edit</a>
+                </td>
+                <td>
+                    <a class="btn btn-danger btn-sm" href="/EmpDetails/Delete?id=@item.id">Delete</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,64 @@
+﻿@page
+@model empdetailsWebApp.Pages.EmpDetails.JobtrendsModel
+@using Microsoft.AspNetCore.Components;
+@using Newtonsoft.Json;
+@using empdetailsAPI.Models;
+
+
+<h2>Job Trends</h2>
+
+<form method="post">
+    <label for="job_title_1">Job Title 1:</label>
+    <select id="job_title_1" name="job_title_1">
+        <option value="">Select Job Title 1</option>
+        @foreach (var job in Model.jobList)
+        {
+            <option value="@job">@job</option>
+        }
+    </select>
+    <label for="job_title_2">Job Title 2:</label>
+    <select id="job_title_2" name="job_title_2">
+        <option value="">Select Job Title 2</option>
+        @foreach (var job in Model.jobList)
+        {
+            <option value="@job">@job</option>
+        }
+    </select>
+    <button type="submit">Submit</button>
+</form>
+
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Job 1 Average Salary for the past three years</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var trend1 in Model.trends1)
+        {
+            <tr>
+                <td>@trend1.Key</td>
+                <td>@trend1.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Job 2 Average Salary for the past three years</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var trend2 in Model.trends2)
+        {
+                <tr>
+                    <td>@trend2.Key</td>
+                    <td>@trend2.Value</td>
+                </tr>
+        }
+    </tbody>
+</table>
+

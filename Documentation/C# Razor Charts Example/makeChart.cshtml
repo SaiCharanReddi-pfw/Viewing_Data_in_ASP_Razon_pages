@@ -1,0 +1,11 @@
+@* This file is used to generate the chart with the hard coded arrays given below *@
+@* The API should be called here and an array made of its response to generate the chart. It can be shown as a standalone browser window or embedded into another razor page as done in this example.'*@
+@{
+    var myChart = new Chart(width: 600, height: 400)
+        .AddTitle("Chart Title")
+        .AddSeries(
+            name: "Employee",
+            xValue: new[] {  "Peter", "Andrew", "Julie", "Mary", "Dave" },
+            yValues: new[] { "2", "6", "4", "5", "3" })
+        .Write();
+}

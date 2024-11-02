@@ -1,0 +1,30 @@
+@page
+@model empdetailsWebApp.Pages.EmpDetails.AvgSalaryModel
+@{
+}
+<h2>Average salary by job title</h2>
+
+<form method="post">
+    <label for="job_title">Job Title:</label>
+    <select id="job_title" name="job_title">
+        <option value="">Select Job Title</option>
+        @foreach (var job in Model.jobList)
+        {
+            <option value="@job">@job</option>
+        }
+    </select>
+    <button type="submit">Submit</button>
+</form>
+
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Average Salary</th>
+        </tr>
+    </thead>
+    <tr>
+        <td><input type="text" id="AvgSalary" name="AvgSalary" value= "@Model.avgsal" /></td>
+    </tr>
+</table>

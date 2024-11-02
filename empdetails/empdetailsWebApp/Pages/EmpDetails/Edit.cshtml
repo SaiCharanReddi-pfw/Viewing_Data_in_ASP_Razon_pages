@@ -1,0 +1,49 @@
+@page
+@model empdetailsWebApp.Pages.EmpDetails.EditModel
+@{
+}
+<br />
+<h2>Edit Data</h2>
+@if (@Model.errorMessage.Length > 0)
+{
+    <div>@Model.errorMessage</div>
+}
+<form method="POST">
+    <input type="hidden" name="id" value="@Model.emp.id" />
+    <table>
+        <tr>
+            <td>work_year</td>
+            <td><input type="text" name="work_year" value="@Model.emp.work_year"></td>
+        </tr>
+        <tr>
+            <td>experience_level</td>
+            <td><input type="text" name="experience_level" value="@Model.emp.experience_level"></td>
+        </tr>
+        <tr>
+            <td>job_title</td>
+            <td><input type="text" name="job_title" value="@Model.emp.job_title"></td>
+        </tr>
+        <tr>
+            <td>salary_in_usd</td>
+            <td><input type="text" name="salary_in_usd" value="@Model.emp.salary_in_usd"></td>
+        </tr>
+        <tr>
+            <td>employee_residence</td>
+            <td><input type="text" name="employee_residence" value="@Model.emp.employee_residence"></td>
+        </tr>
+        <tr>
+            <td>company_location</td>
+            <td><input type="text" name="company_location" value="@Model.emp.company_location"></td>
+        </tr>
+        <tr>
+            <td>company_size</td>
+            <td><input type="text" name="company_size" value="@Model.emp.company_size"></td>
+        </tr>
+    </table>
+    <p></p>
+    @if (@Model.successMessage.Length > 0)
+    {
+        <div>@Model.successMessage</div>
+    }
+    <input type="submit" value="Edit" class="btn btn-primary" />
+</form>
